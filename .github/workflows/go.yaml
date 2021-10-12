@@ -34,7 +34,7 @@ jobs:
         exit 1
       
     - name: Test
-      run: go test -race .
+      run: go test -race ./...
 
     - name: Build
-      run: go build  .
+      run: go build  ./...
