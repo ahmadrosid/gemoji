@@ -8,7 +8,7 @@
   /></a>
   <a href="https://pkg.go.dev/badge/github.com/ahmadrosid/gemoji"
     ><img
-      src="https://pkg.go.dev/github.com/ahmadrosid/gemoji"
+      src="https://camo.githubusercontent.com/a640060291033ca59a91868a40c3b60c534b7ca7f2d1d9d56ee1d2f641357090/68747470733a2f2f706b672e676f2e6465762f62616467652f6769746875622e636f6d2f66617469682f636f6c6f72"
       alt="PkgGoDev"
   /></a>
 </p>
