@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![GitHub Actions workflow status](https://github.com/ahmadrosid/gemoji/workflows/build/badge.svg)](https://github.com/ahmadrosid/gemoji/actions) [![Go Report Card](https://pkg.go.dev/badge/github.com/ahmadrosid/gemoji)](https://pkg.go.dev/badge/github.com/ahmadrosid/gemoji) [![Go Report Card](https://goreportcard.com/badge/mattn/go-colorable)](https://goreportcard.com/report/mattn/go-colorable)
+  [![License](https://img.shields.io/github/license/ahmadrosid/gemoji.svg)](https://github.com/ahmadrosid/gemoji/blob/master/LICENSE) [![GitHub Actions workflow status](https://github.com/ahmadrosid/gemoji/workflows/build/badge.svg)](https://github.com/ahmadrosid/gemoji/actions) [![Go Report Card](https://pkg.go.dev/badge/github.com/ahmadrosid/gemoji)](https://pkg.go.dev/badge/github.com/ahmadrosid/gemoji) [![Go Report Card](https://goreportcard.com/badge/mattn/go-colorable)](https://goreportcard.com/report/mattn/go-colorable)
 
 </div>
 
