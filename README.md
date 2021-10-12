@@ -1,6 +1,17 @@
 ![](/gemoji.png)
 
-<h1></h1>
+<p align="center">
+  <a href="https://github.com/ahmadrosid/gemoji/actions"
+    ><img
+      src="https://github.com/ahmadrosid/gemoji/workflows/build/badge.svg"
+      alt="GitHub Actions workflow status"
+  /></a>
+  <a href="https://pkg.go.dev/badge/github.com/ahmadrosid/gemoji"
+    ><img
+      src="https://pkg.go.dev/github.com/ahmadrosid/gemoji"
+      alt="PkgGoDev"
+  /></a>
+</p>
 
 ## Install
 ```bash
